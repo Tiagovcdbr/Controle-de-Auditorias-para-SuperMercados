@@ -10,7 +10,7 @@ Projeto em Excel Macros e VBA para constrole de resultados de auditorias
 
 ### Abaixo algumas imagens do projeto para vocês terem uma idéia do que foi desenvolvido....
 
-### Happy Hacking !! <
+### 🚀 Happy Hacking !! < 🚀
 
 !!==========Imagens===========!!
 
@@ -54,6 +54,6 @@ Projeto em Excel Macros e VBA para constrole de resultados de auditorias
 
 !!==========Fim das Imagens===========!!
 
-### Muito obrigado e bom aproveitamento />
+### Muito obrigado pela visita e bom aproveitamento /> 😄 😀
 
 
