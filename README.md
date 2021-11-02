@@ -1,5 +1,5 @@
 # Controle-de-Auditorias-para-SuperMercados
-Projeto em Excel Macros e VBA para constrole de resultados de auditorias
+## Projeto em Excel Macros e VBA para constrole de resultados de auditorias
 
 ### Projeto feito e Excel para empresas que fazem auditorias internas de produtos e controle de empenho e monitoria de resultados com comparativos entre dias, semanas, meses e anos.
 ### As planilhas em si podem ser usadas para consiliar vários tipos de projetos e vocês podem usar a base para montar a estrutura que quiser e modifica-la como desejar.
